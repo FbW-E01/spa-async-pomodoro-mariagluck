@@ -59,3 +59,5 @@ startBtn.addEventListener("click", () => startPomodoro(countdown));
 resetBtn.addEventListener("click", () => resetPomodoro(countdown));
 pauseBtn.addEventListener("click", () =>  clearInterval(countdown));
 continueBtn.addEventListener("click", () => startPomodoro(countdown));
+
+
